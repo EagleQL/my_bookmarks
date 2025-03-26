@@ -53,8 +53,8 @@
 </folder>
 <folder id="17">
   <title>TECH</title>
+  <bookmark href="https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-docker" id="18">
+    <title>各种技术学习: build-your-own-x</title>
+  </bookmark>
 </folder>
-<bookmark href="https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-docker" id="18">
-  <title>codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.</title>
-</bookmark>
 </xbel>
