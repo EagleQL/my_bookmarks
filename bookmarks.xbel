@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :17: for Floccus bookmark sync browser extension -->
+<!--- highestId :18: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://openclash.org/openclash-node/?t" id="5">
   <title>OpenClash</title>
@@ -54,4 +54,7 @@
 <folder id="17">
   <title>TECH</title>
 </folder>
+<bookmark href="https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-docker" id="18">
+  <title>codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.</title>
+</bookmark>
 </xbel>
