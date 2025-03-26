@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :16: for Floccus bookmark sync browser extension -->
+<!--- highestId :17: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://openclash.org/openclash-node/?t" id="5">
   <title>OpenClash</title>
@@ -50,5 +50,8 @@
   <bookmark href="https://web.losedh.cyou/" id="12">
     <title>loseprivacy隐私查询官方地址发布页- AI智能地址解析引擎</title>
   </bookmark>
+</folder>
+<folder id="17">
+  <title>TECH</title>
 </folder>
 </xbel>
