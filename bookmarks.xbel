@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :15: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://webhook.site/#!/78d89e3e-80fc-425e-9089-f07bc964315f" id="1">
+  <title>Webhook</title>
+</bookmark>
+<bookmark href="https://beeceptor.com/console/test2023" id="2">
+  <title>API Mock</title>
+</bookmark>
+<bookmark href="https://dashboard.ngrok.com/get-started/setup" id="3">
+  <title>ngrok</title>
+</bookmark>
+<folder id="4">
+  <title>homebuy</title>
+  <folder id="8">
+    <title>reference</title>
+    <bookmark href="https://www.redfin.com/CA/La-Verne/2704-Bonita-Ave-91750/home/7911381" id="13">
+      <title>Redfin</title>
+    </bookmark>
+    <bookmark href="https://www.zillow.com/mortgage-calculator/house-affordability/" id="14">
+      <title>Affordability Calculator - How Much House Can I Afford? | Zillow</title>
+    </bookmark>
+    <bookmark href="https://www.compass.com/listing-presentation/view/cma/cma-f9d38d92-bb8a-4c1d-95d0-c382cac4637d/v/version-1642557236?&amp;email_tracking=e30=&amp;deliverable_id=61e76f9e10fc9b0026a28906&amp;deliverable_type=share_action_email_cma_v2&amp;deliverable_channel=email&amp;email_tracking=eyJkZWxpdmVyYWJsZUlkIjoiNjFlNzZmOWUxMGZjOWIwMDI2YTI4OTA2IiwiZGVsaXZlcmFibGVUeXBlIjo3MCwiZGVsaXZlcmFibGVDaGFubmVsIjoxLCJyZWNpcGllbnRJbmRleCI6MCwic2VuZGVySWQiOiI2MWE5NGVhYzY2ZTk2MjAwMDFkOGExNzgifQ==" id="15">
+      <title>Comparative Market Analysis</title>
+    </bookmark>
+  </folder>
+</folder>
+<bookmark href="https://openclash.org/openclash-node/?t" id="5">
+  <title>OpenClash</title>
+</bookmark>
+<bookmark href="https://subconverter.org/" id="6">
+  <title>SubConverter</title>
+</bookmark>
+<folder id="7">
+  <title>破解及账号</title>
+  <bookmark href="https://www.zzzmode.com/mytools/charles/" id="9">
+    <title>Charles破解工具</title>
+  </bookmark>
+  <bookmark href="https://www.shegongku.top/tg-sgk" id="10">
+    <title>Telegram社工库-社工库</title>
+  </bookmark>
+  <bookmark href="https://github.com/tgkbase/shegongku?tab=readme-ov-file" id="11">
+    <title>tgkbase/shegongku: 2025最新Telegram社工库账号分享</title>
+  </bookmark>
+  <bookmark href="https://web.losedh.cyou/" id="12">
+    <title>loseprivacy隐私查询官方地址发布页- AI智能地址解析引擎</title>
+  </bookmark>
+</folder>
+</xbel>
