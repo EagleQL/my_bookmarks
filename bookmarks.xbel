@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :18: for Floccus bookmark sync browser extension -->
+<!--- highestId :19: for Floccus bookmark sync browser extension -->
 
-<bookmark href="https://openclash.org/openclash-node/?t" id="5">
-  <title>OpenClash</title>
-</bookmark>
-<bookmark href="https://subconverter.org/" id="6">
-  <title>SubConverter</title>
-</bookmark>
 <folder id="4">
   <title>homebuy</title>
   <folder id="8">
@@ -54,6 +48,15 @@
     </bookmark>
     <bookmark href="https://dashboard.ngrok.com/get-started/setup" id="3">
       <title>ngrok</title>
+    </bookmark>
+  </folder>
+  <folder id="19">
+    <title>VPN</title>
+    <bookmark href="https://openclash.org/openclash-node/?t" id="5">
+      <title>OpenClash</title>
+    </bookmark>
+    <bookmark href="https://subconverter.org/" id="6">
+      <title>SubConverter</title>
     </bookmark>
   </folder>
 </folder>
