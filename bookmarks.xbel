@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :21: for Floccus bookmark sync browser extension -->
+<!--- highestId :22: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title>homebuy</title>
@@ -65,5 +65,8 @@
       <title>n8n-io/n8n: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.tripo3d.ai/app/home" id="22">
+    <title>Tripo 网页版 | 随心设计、个性定制，打造属于您的 3D 世界</title>
+  </bookmark>
 </folder>
 </xbel>
