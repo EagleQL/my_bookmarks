@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :23: for Floccus bookmark sync browser extension -->
+<!--- highestId :25: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title>homebuy</title>
@@ -64,6 +64,12 @@
     <bookmark href="https://github.com/n8n-io/n8n" id="21">
       <title>n8n-io/n8n: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</title>
     </bookmark>
+    <folder id="24">
+      <title>Useful-Tools</title>
+      <bookmark href="https://deepwiki.com/lusionltd/WebGL-Scroll-Sync" id="25">
+        <title>lusionltd/WebGL-Scroll-Sync | DeepWiki</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="23">
     <title>图形设计</title>
