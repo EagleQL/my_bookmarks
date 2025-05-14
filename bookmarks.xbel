@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :25: for Floccus bookmark sync browser extension -->
+<!--- highestId :26: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title>homebuy</title>
@@ -68,6 +68,9 @@
       <title>Useful-Tools</title>
       <bookmark href="https://deepwiki.com/lusionltd/WebGL-Scroll-Sync" id="25">
         <title>DeepWiki</title>
+      </bookmark>
+      <bookmark href="http://localhost:8080/customer/reports-list" id="26">
+        <title>GetMyHome</title>
       </bookmark>
     </folder>
   </folder>
