@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :27: for Floccus bookmark sync browser extension -->
+<!--- highestId :46: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title>homebuy</title>
@@ -75,6 +75,63 @@
     <title>图形设计</title>
     <bookmark href="https://www.tripo3d.ai/app/home" id="22">
       <title>Tripo -模型自动生成</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="28">
+  <title>AI</title>
+  <folder id="31">
+    <title>Google</title>
+    <bookmark href="https://labs.google/" id="36">
+      <title>Google Labs: Google&apos;s home for AI experiments - Google Labs</title>
+    </bookmark>
+    <bookmark href="https://deepmind.google/technologies/imagen-3/" id="37">
+      <title>Imagen 3 - Google DeepMind</title>
+    </bookmark>
+    <bookmark href="https://gemini.google.com/app?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=" id="38">
+      <title>Gemini</title>
+    </bookmark>
+    <bookmark href="https://aistudio.google.com/tune" id="39">
+      <title>Tune a model | Google AI Studio</title>
+    </bookmark>
+    <bookmark href="https://labs.google/fx" id="40">
+      <title>labs.google/fx</title>
+    </bookmark>
+    <bookmark href="https://labs.google/fx/zh/tools/music-fx" id="41">
+      <title>Music|VideoFX</title>
+    </bookmark>
+    <bookmark href="https://labs.google/fx/zh/tools/whisk" id="42">
+      <title>Whisk</title>
+    </bookmark>
+  </folder>
+  <folder id="32">
+    <title>其它</title>
+    <bookmark href="https://reccloud.cn/text-to-video" id="43">
+      <title>录咖AI视频生成器 - 在线文字/图片生成视频的AI工具</title>
+    </bookmark>
+    <bookmark href="https://ai-bot.cn/" id="44">
+      <title>AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全</title>
+    </bookmark>
+    <bookmark href="https://gongke.net/" id="45">
+      <title>攻壳智能体 - 探索发现热门的智能体和AI工具</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="29">
+  <title>Tech</title>
+  <bookmark href="http://zetcode.com/gui/pyqt5/" id="33">
+    <title>PyQt5例子</title>
+  </bookmark>
+  <bookmark href="http://www.tuicool.com/articles/6zQJRbQ" id="34">
+    <title>Pyqt5 MacOS 环境搭建 - 推酷</title>
+  </bookmark>
+</folder>
+<folder id="30">
+  <title>Sources</title>
+  <folder id="35">
+    <title>Photo</title>
+    <bookmark href="https://www.pexels.com/search/qilian%20mountain/" id="46">
+      <title>Qilian Mountain Photos, Download The BEST Free Qilian Mountain Stock Photos &amp; HD Images</title>
     </bookmark>
   </folder>
 </folder>
