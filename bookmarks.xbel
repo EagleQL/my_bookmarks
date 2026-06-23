@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :46: for Floccus bookmark sync browser extension -->
+<!--- highestId :47: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title>homebuy</title>
@@ -132,6 +132,9 @@
     <title>Photo</title>
     <bookmark href="https://www.pexels.com/search/qilian%20mountain/" id="46">
       <title>Qilian Mountain Photos, Download The BEST Free Qilian Mountain Stock Photos &amp; HD Images</title>
+    </bookmark>
+    <bookmark href="https://app.asana.com/1/1208672787595728/project/1215935775497785/task/1215739904430031" id="47">
+      <title>● Sprint 150 (06/26) - 🐞 &quot;Local Market Insights&quot; is very slow to load (but should not as it is pre-calcuated at city levels) - Asana</title>
     </bookmark>
   </folder>
 </folder>
